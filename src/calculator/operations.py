@@ -1,3 +1,9 @@
+"""Utility arithmetic operations used by the calculator package.
+
+This module provides simple functions: add, subtract, multiply and divide.
+"""
+
+
 def add(a, b):
     """
     Add two numbers and return the result.
